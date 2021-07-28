@@ -1,0 +1,6 @@
+print("Введите выше имя, затем нажмите Entr")
+name = input()
+print(name + ", что вы хотите поесть?")
+food = input()
+print("")
+print(name + ", немедленно идите в магизин и купите " + food + "!")
